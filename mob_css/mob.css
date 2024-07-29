@@ -1,0 +1,29 @@
+.card img {
+    width: 160px;
+    height: 195px;
+}
+
+.navbar a {
+    margin-left: 1rem;
+}
+
+.contact_form {
+    width: 350px;
+}
+
+/*slider*/
+#home {
+    height: 40vh;
+}
+
+#home::before {
+    height: 40vh;
+}
+/* e-sim */
+#e-simImg{
+    width: 75%;
+}
+
+.footer-cont {
+   flex-direction: column;
+}
